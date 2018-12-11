@@ -1,0 +1,65 @@
+html,
+body {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  text-align: center;
+  min-width: 260px;
+  color: #333;
+  background-image: url("https://cdn.hipwallpaper.com/i/72/83/YMwHDX.jpg");
+
+
+}
+
+#main {
+  margin: 30px auto;
+  padding: 15px;
+  border: 5px solid;
+  border-radius: 40px;
+  background: #eee;
+}
+
+img {
+  max-width: 40%;
+  display: block;
+  height: auto;
+  margin: auto;
+}
+
+#img-div {
+  margin: -5px;
+  margin-top: 20px;
+  width: 100%;
+  border: 5px solid white;
+  background: white;
+}
+
+#img-caption {
+  margin: 15px;
+}
+
+#headline {
+  margin-top: 50px;
+  text-align: left;
+}
+
+#tribute-info {
+  margin-left: 40px;
+  margin-top: 40px;
+  display: inline-block;
+  width: 500px;
+  
+
+}
+
+ul {
+  max-width: 550px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+li {
+  margin: 10px;
+}
+
+blockquote {
+  font-style: italic;
+}
